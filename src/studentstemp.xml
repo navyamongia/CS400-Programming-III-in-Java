@@ -1,0 +1,3501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--the grades follow a normal distribution, mean=3.3 and standard-dev.=1 --><students>
+	<student>
+		<name>Daria Mccarty</name>
+		<email>dariamccarty@wisc.edu</email>
+		<ID>673458769</ID>
+		<grade>3.6</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Bernard Livingston</name>
+		<email>bernardlivingston@wisc.edu</email>
+		<ID>541988808</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Arsenio Martin</name>
+		<email>arseniomartin674@wisc.edu</email>
+		<ID>335257369</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Fletcher Riley</name>
+		<email>fletcherriley@wisc.edu</email>
+		<ID>544867889</ID>
+		<grade>3.1</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Adena Madden</name>
+		<email>adenamadden8795@wisc.edu</email>
+		<ID>886629236</ID>
+		<grade>3.6</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Christine Thompson</name>
+		<email>christinethompson3431@wisc.edu</email>
+		<ID>608472607</ID>
+		<grade>3.8</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Ima Wilkerson</name>
+		<email>imawilkerson6017@wisc.edu</email>
+		<ID>223192940</ID>
+		<grade>3.5</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Leilani Fleming</name>
+		<email>leilanifleming4306@wisc.edu</email>
+		<ID>359901438</ID>
+		<grade>3.1</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Ella Copeland</name>
+		<email>ellacopeland@wisc.edu</email>
+		<ID>845944401</ID>
+		<grade>3.7</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Nehru Delacruz</name>
+		<email>nehrudelacruz@wisc.edu</email>
+		<ID>904314068</ID>
+		<grade>3.0</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Anika Farrell</name>
+		<email>anikafarrell9390@wisc.edu</email>
+		<ID>439216218</ID>
+		<grade>3.2</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Naomi Mckinney</name>
+		<email>naomimckinney@wisc.edu</email>
+		<ID>811689326</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Allen Sykes</name>
+		<email>allensykes@wisc.edu</email>
+		<ID>127579190</ID>
+		<grade>3.1</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Savannah Ferrell</name>
+		<email>savannahferrell1069@wisc.edu</email>
+		<ID>764202547</ID>
+		<grade>3.2</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Kiayada Ball</name>
+		<email>kiayadaball@wisc.edu</email>
+		<ID>988981730</ID>
+		<grade>3.1</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Tamekah Gay</name>
+		<email>tamekahgay@wisc.edu</email>
+		<ID>428939152</ID>
+		<grade>3.5</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Wing Bradley</name>
+		<email>wingbradley@wisc.edu</email>
+		<ID>612825617</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Shelley Poole</name>
+		<email>shelleypoole@wisc.edu</email>
+		<ID>933175887</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Brenden Castro</name>
+		<email>brendencastro1374@wisc.edu</email>
+		<ID>223652235</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Oren Burton</name>
+		<email>orenburton@wisc.edu</email>
+		<ID>594963293</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Brian Jenkins</name>
+		<email>brianjenkins@wisc.edu</email>
+		<ID>778563200</ID>
+		<grade>3.4</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Rina Rosario</name>
+		<email>rinarosario@wisc.edu</email>
+		<ID>836468464</ID>
+		<grade>3.4</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Nehru Blackburn</name>
+		<email>nehrublackburn@wisc.edu</email>
+		<ID>786678105</ID>
+		<grade>3.2</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Anastasia Johnson</name>
+		<email>anastasiajohnson289@wisc.edu</email>
+		<ID>710075816</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Todd Roberts</name>
+		<email>toddroberts@wisc.edu</email>
+		<ID>873481456</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Duncan Buckley</name>
+		<email>duncanbuckley@wisc.edu</email>
+		<ID>240202320</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Lisandra Boyle</name>
+		<email>lisandraboyle79@wisc.edu</email>
+		<ID>108407435</ID>
+		<grade>3.2</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Mason Miles</name>
+		<email>masonmiles@wisc.edu</email>
+		<ID>826228252</ID>
+		<grade>3.7</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Colby Todd</name>
+		<email>colbytodd@wisc.edu</email>
+		<ID>729799789</ID>
+		<grade>2.7</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Katelyn Carey</name>
+		<email>katelyncarey@wisc.edu</email>
+		<ID>855382443</ID>
+		<grade>3.2</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Hedda Sweet</name>
+		<email>heddasweet@wisc.edu</email>
+		<ID>591716389</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Ishmael O'Neill</name>
+		<email>ishmaeloneill8483@wisc.edu</email>
+		<ID>374995097</ID>
+		<grade>3.2</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Patrick Atkinson</name>
+		<email>patrickatkinson3642@wisc.edu</email>
+		<ID>945490991</ID>
+		<grade>3.1</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Vanna Bird</name>
+		<email>vannabird@wisc.edu</email>
+		<ID>567153395</ID>
+		<grade>2.8</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Robin Michael</name>
+		<email>robinmichael305@wisc.edu</email>
+		<ID>404994967</ID>
+		<grade>3.4</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Brent James</name>
+		<email>brentjames1342@wisc.edu</email>
+		<ID>701151004</ID>
+		<grade>2.6</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Michelle Farrell</name>
+		<email>michellefarrell@wisc.edu</email>
+		<ID>932297296</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Keith Church</name>
+		<email>keithchurch@wisc.edu</email>
+		<ID>792542882</ID>
+		<grade>3.8</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Velma Garrison</name>
+		<email>velmagarrison7324@wisc.edu</email>
+		<ID>923997650</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Karly Bush</name>
+		<email>karlybush2790@wisc.edu</email>
+		<ID>587466666</ID>
+		<grade>3.4</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Pamela Vang</name>
+		<email>pamelavang@wisc.edu</email>
+		<ID>765101240</ID>
+		<grade>3.8</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Yuri George</name>
+		<email>yurigeorge@wisc.edu</email>
+		<ID>581644889</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Lavinia Webster</name>
+		<email>laviniawebster5627@wisc.edu</email>
+		<ID>513537005</ID>
+		<grade>3.1</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Cassandra Long</name>
+		<email>cassandralong@wisc.edu</email>
+		<ID>794572532</ID>
+		<grade>3.4</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Wang Swanson</name>
+		<email>wangswanson@wisc.edu</email>
+		<ID>758888082</ID>
+		<grade>2.9</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Rhonda Barrera</name>
+		<email>rhondabarrera@wisc.edu</email>
+		<ID>880578252</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Merrill Bryan</name>
+		<email>merrillbryan@wisc.edu</email>
+		<ID>604379096</ID>
+		<grade>3.6</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Amir Wallace</name>
+		<email>amirwallace@wisc.edu</email>
+		<ID>613845883</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Joshua Collins</name>
+		<email>joshuacollins936@wisc.edu</email>
+		<ID>326229456</ID>
+		<grade>3.4</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Kermit Tyson</name>
+		<email>kermittyson@wisc.edu</email>
+		<ID>873916334</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Phillip Franco</name>
+		<email>phillipfranco6805@wisc.edu</email>
+		<ID>645046976</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Josiah Kaufman</name>
+		<email>josiahkaufman@wisc.edu</email>
+		<ID>256373903</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Phyllis Collier</name>
+		<email>phylliscollier774@wisc.edu</email>
+		<ID>516394684</ID>
+		<grade>3.5</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Latifah Camacho</name>
+		<email>latifahcamacho@wisc.edu</email>
+		<ID>818530384</ID>
+		<grade>3.1</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Russell Best</name>
+		<email>russellbest@wisc.edu</email>
+		<ID>580765388</ID>
+		<grade>3.1</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Hoyt Castillo</name>
+		<email>hoytcastillo6409@wisc.edu</email>
+		<ID>681428336</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Damon Solomon</name>
+		<email>damonsolomon864@wisc.edu</email>
+		<ID>849962804</ID>
+		<grade>3.7</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Victoria Fernandez</name>
+		<email>victoriafernandez5463@wisc.edu</email>
+		<ID>333401129</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Emery Oneil</name>
+		<email>emeryoneil3541@wisc.edu</email>
+		<ID>435268486</ID>
+		<grade>3.8</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Kennedy Zimmerman</name>
+		<email>kennedyzimmerman5997@wisc.edu</email>
+		<ID>833759883</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Iris Cardenas</name>
+		<email>iriscardenas@wisc.edu</email>
+		<ID>699585203</ID>
+		<grade>3.0</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Demetrius Guthrie</name>
+		<email>demetriusguthrie@wisc.edu</email>
+		<ID>187938732</ID>
+		<grade>3.5</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Illana O'Neill</name>
+		<email>illanaoneill5115@wisc.edu</email>
+		<ID>481376205</ID>
+		<grade>3.7</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Germane Vega</name>
+		<email>germanevega@wisc.edu</email>
+		<ID>369991827</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Ruby Mcmahon</name>
+		<email>rubymcmahon@wisc.edu</email>
+		<ID>724437001</ID>
+		<grade>3.1</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Caesar Vasquez</name>
+		<email>caesarvasquez4284@wisc.edu</email>
+		<ID>428212745</ID>
+		<grade>3.0</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Genevieve Hays</name>
+		<email>genevievehays1943@wisc.edu</email>
+		<ID>891095990</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Lani Hewitt</name>
+		<email>lanihewitt@wisc.edu</email>
+		<ID>581883870</ID>
+		<grade>3.2</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Rana Rodgers</name>
+		<email>ranarodgers@wisc.edu</email>
+		<ID>748852305</ID>
+		<grade>3.7</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Luke Conley</name>
+		<email>lukeconley@wisc.edu</email>
+		<ID>124348902</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Lynn Marsh</name>
+		<email>lynnmarsh8452@wisc.edu</email>
+		<ID>994854263</ID>
+		<grade>3.0</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Keiko Bullock</name>
+		<email>keikobullock@wisc.edu</email>
+		<ID>597510125</ID>
+		<grade>3.5</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Inga Fowler</name>
+		<email>ingafowler@wisc.edu</email>
+		<ID>442617877</ID>
+		<grade>3.6</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Ramona Singleton</name>
+		<email>ramonasingleton@wisc.edu</email>
+		<ID>160446369</ID>
+		<grade>2.9</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Emery Garrett</name>
+		<email>emerygarrett@wisc.edu</email>
+		<ID>982608722</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Shoshana Rocha</name>
+		<email>shoshanarocha@wisc.edu</email>
+		<ID>878937447</ID>
+		<grade>3.5</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Lila Mooney</name>
+		<email>lilamooney2537@wisc.edu</email>
+		<ID>480733271</ID>
+		<grade>3.7</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Alyssa Mann</name>
+		<email>alyssamann@wisc.edu</email>
+		<ID>753042260</ID>
+		<grade>3.0</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Hanae Best</name>
+		<email>hanaebest3833@wisc.edu</email>
+		<ID>492443950</ID>
+		<grade>3.1</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Boris Garner</name>
+		<email>borisgarner7240@wisc.edu</email>
+		<ID>821715831</ID>
+		<grade>3.0</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Camille Wells</name>
+		<email>camillewells@wisc.edu</email>
+		<ID>356374863</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Maia Reese</name>
+		<email>maiareese@wisc.edu</email>
+		<ID>790707687</ID>
+		<grade>3.5</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Vera Hopkins</name>
+		<email>verahopkins@wisc.edu</email>
+		<ID>598977030</ID>
+		<grade>3.4</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Mara Pace</name>
+		<email>marapace@wisc.edu</email>
+		<ID>567574992</ID>
+		<grade>3.4</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Gannon Berger</name>
+		<email>gannonberger@wisc.edu</email>
+		<ID>662243430</ID>
+		<grade>3.2</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Shad Jimenez</name>
+		<email>shadjimenez9844@wisc.edu</email>
+		<ID>329806986</ID>
+		<grade>3.5</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Cadman Melendez</name>
+		<email>cadmanmelendez5809@wisc.edu</email>
+		<ID>946333738</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Ivan Nelson</name>
+		<email>ivannelson@wisc.edu</email>
+		<ID>790792574</ID>
+		<grade>3.4</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Anjolie Mccarty</name>
+		<email>anjoliemccarty146@wisc.edu</email>
+		<ID>168844704</ID>
+		<grade>3.2</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Susan Ford</name>
+		<email>susanford8113@wisc.edu</email>
+		<ID>143903133</ID>
+		<grade>3.6</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Cody Hensley</name>
+		<email>codyhensley@wisc.edu</email>
+		<ID>249721037</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Zena Cunningham</name>
+		<email>zenacunningham1583@wisc.edu</email>
+		<ID>852745646</ID>
+		<grade>3.1</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Germane Stephens</name>
+		<email>germanestephens1064@wisc.edu</email>
+		<ID>803704379</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Leandra Nash</name>
+		<email>leandranash6770@wisc.edu</email>
+		<ID>113357092</ID>
+		<grade>3.8</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Colette Stuart</name>
+		<email>colettestuart@wisc.edu</email>
+		<ID>645776890</ID>
+		<grade>3.1</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Kitra Fuentes</name>
+		<email>kitrafuentes@wisc.edu</email>
+		<ID>686505046</ID>
+		<grade>3.5</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Dylan Hayden</name>
+		<email>dylanhayden@wisc.edu</email>
+		<ID>399435528</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Margaret Kennedy</name>
+		<email>margaretkennedy2260@wisc.edu</email>
+		<ID>221493427</ID>
+		<grade>3.1</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Victoria Maxwell</name>
+		<email>victoriamaxwell7243@wisc.edu</email>
+		<ID>514082540</ID>
+		<grade>3.5</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Claudia Lindsay</name>
+		<email>claudialindsay1944@wisc.edu</email>
+		<ID>394785609</ID>
+		<grade>3.5</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Summer Barker</name>
+		<email>summerbarker734@wisc.edu</email>
+		<ID>888407850</ID>
+		<grade>3.8</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Leila Bush</name>
+		<email>leilabush@wisc.edu</email>
+		<ID>530512871</ID>
+		<grade>2.7</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Virginia Gilliam</name>
+		<email>virginiagilliam3291@wisc.edu</email>
+		<ID>237258263</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>India Sweet</name>
+		<email>indiasweet@wisc.edu</email>
+		<ID>240929319</ID>
+		<grade>3.6</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Keely Sweet</name>
+		<email>keelysweet@wisc.edu</email>
+		<ID>533333875</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Rafael Moody</name>
+		<email>rafaelmoody591@wisc.edu</email>
+		<ID>955412097</ID>
+		<grade>3.2</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Abraham Atkinson</name>
+		<email>abrahamatkinson@wisc.edu</email>
+		<ID>699202290</ID>
+		<grade>3.0</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Eagan Barrett</name>
+		<email>eaganbarrett@wisc.edu</email>
+		<ID>574947641</ID>
+		<grade>3.8</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Vielka Kim</name>
+		<email>vielkakim9975@wisc.edu</email>
+		<ID>780758266</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Leigh Vinson</name>
+		<email>leighvinson4043@wisc.edu</email>
+		<ID>358036561</ID>
+		<grade>3.0</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Drew Bender</name>
+		<email>drewbender9805@wisc.edu</email>
+		<ID>126932872</ID>
+		<grade>3.4</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Ruth Anderson</name>
+		<email>ruthanderson@wisc.edu</email>
+		<ID>470650833</ID>
+		<grade>3.2</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Hanna Randolph</name>
+		<email>hannarandolph@wisc.edu</email>
+		<ID>584725262</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Lani Weber</name>
+		<email>laniweber3898@wisc.edu</email>
+		<ID>629823663</ID>
+		<grade>3.1</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Igor Blackburn</name>
+		<email>igorblackburn@wisc.edu</email>
+		<ID>784920189</ID>
+		<grade>3.6</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Yetta Santana</name>
+		<email>yettasantana@wisc.edu</email>
+		<ID>765595093</ID>
+		<grade>2.8</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Simon West</name>
+		<email>simonwest@wisc.edu</email>
+		<ID>873188553</ID>
+		<grade>3.2</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Jael Bernard</name>
+		<email>jaelbernard@wisc.edu</email>
+		<ID>249188467</ID>
+		<grade>3.2</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Erica Sharpe</name>
+		<email>ericasharpe4635@wisc.edu</email>
+		<ID>860635119</ID>
+		<grade>3.1</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Wade Fleming</name>
+		<email>wadefleming@wisc.edu</email>
+		<ID>970316639</ID>
+		<grade>3.4</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Levi Farrell</name>
+		<email>levifarrell4495@wisc.edu</email>
+		<ID>251737930</ID>
+		<grade>3.8</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Quamar Yang</name>
+		<email>quamaryang@wisc.edu</email>
+		<ID>274406556</ID>
+		<grade>3.4</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Xandra Robertson</name>
+		<email>xandrarobertson@wisc.edu</email>
+		<ID>853268340</ID>
+		<grade>3.2</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Scott Graham</name>
+		<email>scottgraham1447@wisc.edu</email>
+		<ID>159789654</ID>
+		<grade>3.2</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Kylynn Preston</name>
+		<email>kylynnpreston8664@wisc.edu</email>
+		<ID>380034051</ID>
+		<grade>3.1</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Quinlan Leach</name>
+		<email>quinlanleach9152@wisc.edu</email>
+		<ID>177895028</ID>
+		<grade>3.4</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Felicia Pearson</name>
+		<email>feliciapearson6720@wisc.edu</email>
+		<ID>194991533</ID>
+		<grade>3.2</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Rebecca Aguilar</name>
+		<email>rebeccaaguilar4090@wisc.edu</email>
+		<ID>635636559</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Otto Joseph</name>
+		<email>ottojoseph@wisc.edu</email>
+		<ID>627221241</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Rinah Christensen</name>
+		<email>rinahchristensen1411@wisc.edu</email>
+		<ID>429964574</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Britanni Humphrey</name>
+		<email>britannihumphrey6672@wisc.edu</email>
+		<ID>303579122</ID>
+		<grade>3.9</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Nicole Hays</name>
+		<email>nicolehays@wisc.edu</email>
+		<ID>912712391</ID>
+		<grade>3.2</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Jonah Pugh</name>
+		<email>jonahpugh3859@wisc.edu</email>
+		<ID>599721001</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Maisie David</name>
+		<email>maisiedavid1013@wisc.edu</email>
+		<ID>953539592</ID>
+		<grade>2.9</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Blaze Alvarez</name>
+		<email>blazealvarez@wisc.edu</email>
+		<ID>258147690</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Barry Burgess</name>
+		<email>barryburgess@wisc.edu</email>
+		<ID>961332005</ID>
+		<grade>3.1</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Bert Wilcox</name>
+		<email>bertwilcox6041@wisc.edu</email>
+		<ID>367865411</ID>
+		<grade>3.2</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Gisela Pittman</name>
+		<email>giselapittman@wisc.edu</email>
+		<ID>763675180</ID>
+		<grade>2.8</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Deanna Mason</name>
+		<email>deannamason@wisc.edu</email>
+		<ID>173729730</ID>
+		<grade>3.0</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Cadman Ware</name>
+		<email>cadmanware@wisc.edu</email>
+		<ID>650481043</ID>
+		<grade>3.2</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Larissa Parsons</name>
+		<email>larissaparsons@wisc.edu</email>
+		<ID>300007250</ID>
+		<grade>3.7</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Naomi Eaton</name>
+		<email>naomieaton1390@wisc.edu</email>
+		<ID>193306300</ID>
+		<grade>3.1</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Owen Keller</name>
+		<email>owenkeller8957@wisc.edu</email>
+		<ID>913163780</ID>
+		<grade>2.9</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Hammett Mccormick</name>
+		<email>hammettmccormick9396@wisc.edu</email>
+		<ID>338355013</ID>
+		<grade>3.7</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Adrienne Riggs</name>
+		<email>adrienneriggs4768@wisc.edu</email>
+		<ID>443529259</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Harrison Aguirre</name>
+		<email>harrisonaguirre@wisc.edu</email>
+		<ID>188028408</ID>
+		<grade>2.8</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Piper Parrish</name>
+		<email>piperparrish2267@wisc.edu</email>
+		<ID>898669642</ID>
+		<grade>3.0</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Yoshio Dean</name>
+		<email>yoshiodean@wisc.edu</email>
+		<ID>623605977</ID>
+		<grade>3.4</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Evan Chan</name>
+		<email>evanchan4529@wisc.edu</email>
+		<ID>567902345</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Jarrod Douglas</name>
+		<email>jarroddouglas@wisc.edu</email>
+		<ID>356219985</ID>
+		<grade>3.0</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Vance Nieves</name>
+		<email>vancenieves@wisc.edu</email>
+		<ID>471273694</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Cecilia Middleton</name>
+		<email>ceciliamiddleton6744@wisc.edu</email>
+		<ID>872126863</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Theodore Ochoa</name>
+		<email>theodoreochoa@wisc.edu</email>
+		<ID>443763261</ID>
+		<grade>3.2</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Nash Sherman</name>
+		<email>nashsherman@wisc.edu</email>
+		<ID>760653830</ID>
+		<grade>3.1</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Shoshana Good</name>
+		<email>shoshanagood@wisc.edu</email>
+		<ID>777051579</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Buckminster Hines</name>
+		<email>buckminsterhines9087@wisc.edu</email>
+		<ID>228661530</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Donovan Parrish</name>
+		<email>donovanparrish4207@wisc.edu</email>
+		<ID>400506082</ID>
+		<grade>3.0</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Lydia Beck</name>
+		<email>lydiabeck@wisc.edu</email>
+		<ID>355480004</ID>
+		<grade>3.1</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Lilah Perez</name>
+		<email>lilahperez@wisc.edu</email>
+		<ID>235655106</ID>
+		<grade>3.4</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Damian Kinney</name>
+		<email>damiankinney@wisc.edu</email>
+		<ID>357493906</ID>
+		<grade>3.2</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Noah Erickson</name>
+		<email>noaherickson114@wisc.edu</email>
+		<ID>144323009</ID>
+		<grade>3.1</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Len Barton</name>
+		<email>lenbarton9174@wisc.edu</email>
+		<ID>462965658</ID>
+		<grade>3.7</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Shaine Matthews</name>
+		<email>shainematthews@wisc.edu</email>
+		<ID>960808165</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Ginger Fuentes</name>
+		<email>gingerfuentes1416@wisc.edu</email>
+		<ID>394276497</ID>
+		<grade>3.2</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Cheryl Frye</name>
+		<email>cherylfrye2666@wisc.edu</email>
+		<ID>808011924</ID>
+		<grade>3.2</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Sierra Kaufman</name>
+		<email>sierrakaufman2483@wisc.edu</email>
+		<ID>896532443</ID>
+		<grade>3.1</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Summer Walton</name>
+		<email>summerwalton@wisc.edu</email>
+		<ID>470774762</ID>
+		<grade>3.2</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Brandon Carroll</name>
+		<email>brandoncarroll3088@wisc.edu</email>
+		<ID>917140061</ID>
+		<grade>3.1</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Aiko Case</name>
+		<email>aikocase@wisc.edu</email>
+		<ID>325831029</ID>
+		<grade>3.6</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Louis Walter</name>
+		<email>louiswalter@wisc.edu</email>
+		<ID>754726155</ID>
+		<grade>3.1</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Vernon Bryan</name>
+		<email>vernonbryan@wisc.edu</email>
+		<ID>651263089</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Melissa Sloan</name>
+		<email>melissasloan2665@wisc.edu</email>
+		<ID>855962902</ID>
+		<grade>3.4</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Kessie Ramsey</name>
+		<email>kessieramsey@wisc.edu</email>
+		<ID>503833735</ID>
+		<grade>3.5</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Elvis Robertson</name>
+		<email>elvisrobertson9653@wisc.edu</email>
+		<ID>245703232</ID>
+		<grade>3.1</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Kasper Morrison</name>
+		<email>kaspermorrison6250@wisc.edu</email>
+		<ID>289394473</ID>
+		<grade>3.4</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Haley Lynch</name>
+		<email>haleylynch@wisc.edu</email>
+		<ID>690504808</ID>
+		<grade>2.9</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Garrett Nielsen</name>
+		<email>garrettnielsen@wisc.edu</email>
+		<ID>638084929</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Keefe Mckay</name>
+		<email>keefemckay5014@wisc.edu</email>
+		<ID>272672684</ID>
+		<grade>2.9</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Nicole Glass</name>
+		<email>nicoleglass@wisc.edu</email>
+		<ID>299921728</ID>
+		<grade>3.5</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Lavinia Estes</name>
+		<email>laviniaestes@wisc.edu</email>
+		<ID>874091298</ID>
+		<grade>3.6</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Reese Ramirez</name>
+		<email>reeseramirez@wisc.edu</email>
+		<ID>203135762</ID>
+		<grade>2.9</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Xena Guerra</name>
+		<email>xenaguerra@wisc.edu</email>
+		<ID>717710744</ID>
+		<grade>3.2</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Randall Mann</name>
+		<email>randallmann@wisc.edu</email>
+		<ID>688367340</ID>
+		<grade>3.0</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Howard Melendez</name>
+		<email>howardmelendez@wisc.edu</email>
+		<ID>851834652</ID>
+		<grade>3.6</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Hillary Guzman</name>
+		<email>hillaryguzman@wisc.edu</email>
+		<ID>903918079</ID>
+		<grade>3.5</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Samantha Howard</name>
+		<email>samanthahoward@wisc.edu</email>
+		<ID>834582793</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>David Rocha</name>
+		<email>davidrocha9739@wisc.edu</email>
+		<ID>337178459</ID>
+		<grade>3.2</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Byron Schroeder</name>
+		<email>byronschroeder@wisc.edu</email>
+		<ID>177689596</ID>
+		<grade>3.0</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Laurel Brennan</name>
+		<email>laurelbrennan@wisc.edu</email>
+		<ID>184762987</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Karyn Rosario</name>
+		<email>karynrosario8636@wisc.edu</email>
+		<ID>987489850</ID>
+		<grade>3.2</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Karyn Hewitt</name>
+		<email>karynhewitt@wisc.edu</email>
+		<ID>486978660</ID>
+		<grade>3.4</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Silas Hanson</name>
+		<email>silashanson1903@wisc.edu</email>
+		<ID>493124401</ID>
+		<grade>3.2</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Martin Ramsey</name>
+		<email>martinramsey2145@wisc.edu</email>
+		<ID>944263334</ID>
+		<grade>3.2</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Flavia Olsen</name>
+		<email>flaviaolsen@wisc.edu</email>
+		<ID>460178064</ID>
+		<grade>3.1</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Robert Mcfadden</name>
+		<email>robertmcfadden@wisc.edu</email>
+		<ID>907294322</ID>
+		<grade>3.1</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Dara Hamilton</name>
+		<email>darahamilton@wisc.edu</email>
+		<ID>567405394</ID>
+		<grade>3.2</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Francesca Glover</name>
+		<email>francescaglover6402@wisc.edu</email>
+		<ID>354941946</ID>
+		<grade>2.8</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Ainsley Holden</name>
+		<email>ainsleyholden@wisc.edu</email>
+		<ID>791743103</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Gloria Kemp</name>
+		<email>gloriakemp@wisc.edu</email>
+		<ID>675838753</ID>
+		<grade>3.0</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Anne Sloan</name>
+		<email>annesloan@wisc.edu</email>
+		<ID>276078045</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Harper Mccray</name>
+		<email>harpermccray@wisc.edu</email>
+		<ID>264287314</ID>
+		<grade>3.6</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Aurelia Durham</name>
+		<email>aureliadurham@wisc.edu</email>
+		<ID>428331164</ID>
+		<grade>3.7</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Scott Holder</name>
+		<email>scottholder@wisc.edu</email>
+		<ID>545089632</ID>
+		<grade>3.1</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Jael Bradley</name>
+		<email>jaelbradley@wisc.edu</email>
+		<ID>213948073</ID>
+		<grade>3.5</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Oliver Mcneil</name>
+		<email>olivermcneil@wisc.edu</email>
+		<ID>990401301</ID>
+		<grade>3.6</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Omar Cline</name>
+		<email>omarcline@wisc.edu</email>
+		<ID>171148575</ID>
+		<grade>3.2</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Guy Rowland</name>
+		<email>guyrowland@wisc.edu</email>
+		<ID>548548237</ID>
+		<grade>3.4</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Lilah Compton</name>
+		<email>lilahcompton@wisc.edu</email>
+		<ID>508765663</ID>
+		<grade>3.0</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Sybil Griffin</name>
+		<email>sybilgriffin@wisc.edu</email>
+		<ID>264995030</ID>
+		<grade>3.4</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Nigel Spence</name>
+		<email>nigelspence7216@wisc.edu</email>
+		<ID>459823515</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Georgia Allen</name>
+		<email>georgiaallen@wisc.edu</email>
+		<ID>529005513</ID>
+		<grade>3.4</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Jeanette Brennan</name>
+		<email>jeanettebrennan@wisc.edu</email>
+		<ID>680017155</ID>
+		<grade>3.0</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Suki Anderson</name>
+		<email>sukianderson8307@wisc.edu</email>
+		<ID>785805023</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Megan Mcbride</name>
+		<email>meganmcbride1418@wisc.edu</email>
+		<ID>705297520</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Camille Hale</name>
+		<email>camillehale9956@wisc.edu</email>
+		<ID>465839043</ID>
+		<grade>2.9</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Janna Luna</name>
+		<email>jannaluna8729@wisc.edu</email>
+		<ID>714775440</ID>
+		<grade>3.1</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Rafael Aguilar</name>
+		<email>rafaelaguilar@wisc.edu</email>
+		<ID>989392639</ID>
+		<grade>3.1</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Perry Foster</name>
+		<email>perryfoster1121@wisc.edu</email>
+		<ID>798116305</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Ruth Durham</name>
+		<email>ruthdurham5861@wisc.edu</email>
+		<ID>886784590</ID>
+		<grade>3.5</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Heather Mcdonald</name>
+		<email>heathermcdonald8652@wisc.edu</email>
+		<ID>956168512</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Reed Mathis</name>
+		<email>reedmathis@wisc.edu</email>
+		<ID>845500573</ID>
+		<grade>2.9</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Alma Morse</name>
+		<email>almamorse@wisc.edu</email>
+		<ID>687864954</ID>
+		<grade>3.2</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Alan Collier</name>
+		<email>alancollier1568@wisc.edu</email>
+		<ID>773978379</ID>
+		<grade>3.5</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Merrill Robbins</name>
+		<email>merrillrobbins@wisc.edu</email>
+		<ID>122414054</ID>
+		<grade>3.4</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Matthew Davis</name>
+		<email>matthewdavis@wisc.edu</email>
+		<ID>663242661</ID>
+		<grade>3.2</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Mia Mooney</name>
+		<email>miamooney@wisc.edu</email>
+		<ID>210998148</ID>
+		<grade>3.2</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Theodore O'donnell</name>
+		<email>theodoreodonnell@wisc.edu</email>
+		<ID>974562281</ID>
+		<grade>3.2</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Teagan Osborn</name>
+		<email>teaganosborn3606@wisc.edu</email>
+		<ID>499244407</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Hilel Rogers</name>
+		<email>hilelrogers@wisc.edu</email>
+		<ID>116144168</ID>
+		<grade>3.1</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Tarik Moss</name>
+		<email>tarikmoss@wisc.edu</email>
+		<ID>343393859</ID>
+		<grade>3.2</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Colleen Robinson</name>
+		<email>colleenrobinson@wisc.edu</email>
+		<ID>155908749</ID>
+		<grade>3.6</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Wynne Goodwin</name>
+		<email>wynnegoodwin@wisc.edu</email>
+		<ID>287324565</ID>
+		<grade>3.1</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Natalie David</name>
+		<email>nataliedavid@wisc.edu</email>
+		<ID>353793884</ID>
+		<grade>3.4</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Gemma Goff</name>
+		<email>gemmagoff@wisc.edu</email>
+		<ID>729534927</ID>
+		<grade>3.5</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Benjamin Mcdonald</name>
+		<email>benjaminmcdonald1319@wisc.edu</email>
+		<ID>123467397</ID>
+		<grade>3.0</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Colby Pittman</name>
+		<email>colbypittman2079@wisc.edu</email>
+		<ID>594768775</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Alika Turner</name>
+		<email>alikaturner1908@wisc.edu</email>
+		<ID>516626881</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Austin Hall</name>
+		<email>austinhall7021@wisc.edu</email>
+		<ID>537864885</ID>
+		<grade>3.4</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Damian Cabrera</name>
+		<email>damiancabrera@wisc.edu</email>
+		<ID>746147879</ID>
+		<grade>3.4</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Delilah Burks</name>
+		<email>delilahburks@wisc.edu</email>
+		<ID>527720789</ID>
+		<grade>2.8</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Gregory Dominguez</name>
+		<email>gregorydominguez6477@wisc.edu</email>
+		<ID>712012546</ID>
+		<grade>3.1</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Joelle Horton</name>
+		<email>joellehorton1046@wisc.edu</email>
+		<ID>189441028</ID>
+		<grade>3.1</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Hu Potter</name>
+		<email>hupotter7002@wisc.edu</email>
+		<ID>764172893</ID>
+		<grade>3.4</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Jillian Burks</name>
+		<email>jillianburks@wisc.edu</email>
+		<ID>142283809</ID>
+		<grade>3.2</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Desiree Allen</name>
+		<email>desireeallen@wisc.edu</email>
+		<ID>405969335</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Karly Stewart</name>
+		<email>karlystewart7451@wisc.edu</email>
+		<ID>517985280</ID>
+		<grade>2.9</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Lilah Wiggins</name>
+		<email>lilahwiggins@wisc.edu</email>
+		<ID>632888167</ID>
+		<grade>3.1</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Griffith Hurley</name>
+		<email>griffithhurley@wisc.edu</email>
+		<ID>132019236</ID>
+		<grade>3.2</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Talon Miller</name>
+		<email>talonmiller@wisc.edu</email>
+		<ID>105315990</ID>
+		<grade>3.4</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Lyle Monroe</name>
+		<email>lylemonroe5248@wisc.edu</email>
+		<ID>809444044</ID>
+		<grade>3.1</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Raphael Bartlett</name>
+		<email>raphaelbartlett@wisc.edu</email>
+		<ID>531239310</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Micah Walter</name>
+		<email>micahwalter5943@wisc.edu</email>
+		<ID>291826710</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Mark Swanson</name>
+		<email>markswanson2003@wisc.edu</email>
+		<ID>153959314</ID>
+		<grade>2.9</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Preston Woods</name>
+		<email>prestonwoods@wisc.edu</email>
+		<ID>729517947</ID>
+		<grade>3.5</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Fulton Hensley</name>
+		<email>fultonhensley3440@wisc.edu</email>
+		<ID>782052761</ID>
+		<grade>3.2</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Carolyn Watts</name>
+		<email>carolynwatts2103@wisc.edu</email>
+		<ID>511913492</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Cynthia Jordan</name>
+		<email>cynthiajordan6004@wisc.edu</email>
+		<ID>399410421</ID>
+		<grade>2.9</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Angelica Farley</name>
+		<email>angelicafarley@wisc.edu</email>
+		<ID>687140225</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Cleo Ochoa</name>
+		<email>cleoochoa6047@wisc.edu</email>
+		<ID>367130500</ID>
+		<grade>3.1</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Yardley Douglas</name>
+		<email>yardleydouglas4589@wisc.edu</email>
+		<ID>252657688</ID>
+		<grade>3.2</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Brandon Hicks</name>
+		<email>brandonhicks@wisc.edu</email>
+		<ID>648185692</ID>
+		<grade>3.5</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Jennifer Bray</name>
+		<email>jenniferbray8106@wisc.edu</email>
+		<ID>766435927</ID>
+		<grade>3.2</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Ainsley Scott</name>
+		<email>ainsleyscott@wisc.edu</email>
+		<ID>514355838</ID>
+		<grade>3.8</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Lacota Hensley</name>
+		<email>lacotahensley1435@wisc.edu</email>
+		<ID>929176930</ID>
+		<grade>3.2</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Sade Horne</name>
+		<email>sadehorne299@wisc.edu</email>
+		<ID>234551912</ID>
+		<grade>3.8</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Chester Smith</name>
+		<email>chestersmith7385@wisc.edu</email>
+		<ID>459266305</ID>
+		<grade>2.7</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Wing Calderon</name>
+		<email>wingcalderon@wisc.edu</email>
+		<ID>366640442</ID>
+		<grade>3.4</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Kaye Burke</name>
+		<email>kayeburke2629@wisc.edu</email>
+		<ID>856948993</ID>
+		<grade>3.4</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Calista Reilly</name>
+		<email>calistareilly@wisc.edu</email>
+		<ID>571668505</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Finn Powell</name>
+		<email>finnpowell@wisc.edu</email>
+		<ID>984172034</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Hilel Tate</name>
+		<email>hileltate@wisc.edu</email>
+		<ID>883740363</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Francesca Hill</name>
+		<email>francescahill1263@wisc.edu</email>
+		<ID>296279235</ID>
+		<grade>3.0</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Reed Mcneil</name>
+		<email>reedmcneil9661@wisc.edu</email>
+		<ID>675166388</ID>
+		<grade>3.1</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Fuller Cantrell</name>
+		<email>fullercantrell@wisc.edu</email>
+		<ID>750299985</ID>
+		<grade>3.6</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Astra Combs</name>
+		<email>astracombs8118@wisc.edu</email>
+		<ID>460000031</ID>
+		<grade>3.2</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Kyra Charles</name>
+		<email>kyracharles@wisc.edu</email>
+		<ID>345144528</ID>
+		<grade>2.9</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Fletcher Lowery</name>
+		<email>fletcherlowery@wisc.edu</email>
+		<ID>946511369</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Kyla Myers</name>
+		<email>kylamyers2177@wisc.edu</email>
+		<ID>656327290</ID>
+		<grade>3.4</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Grace Baker</name>
+		<email>gracebaker2103@wisc.edu</email>
+		<ID>138952691</ID>
+		<grade>3.4</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Shaine Wall</name>
+		<email>shainewall@wisc.edu</email>
+		<ID>965551787</ID>
+		<grade>3.1</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Steel Vinson</name>
+		<email>steelvinson@wisc.edu</email>
+		<ID>446182377</ID>
+		<grade>3.0</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Karyn Brock</name>
+		<email>karynbrock8721@wisc.edu</email>
+		<ID>831919615</ID>
+		<grade>3.2</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Brody Hebert</name>
+		<email>brodyhebert2014@wisc.edu</email>
+		<ID>449568955</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Kirestin Meyers</name>
+		<email>kirestinmeyers@wisc.edu</email>
+		<ID>253664140</ID>
+		<grade>3.1</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Cain Sykes</name>
+		<email>cainsykes7973@wisc.edu</email>
+		<ID>337961726</ID>
+		<grade>2.9</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Steven Andrews</name>
+		<email>stevenandrews@wisc.edu</email>
+		<ID>551905753</ID>
+		<grade>3.9</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Gary Donaldson</name>
+		<email>garydonaldson6022@wisc.edu</email>
+		<ID>138650931</ID>
+		<grade>3.2</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Leo Parks</name>
+		<email>leoparks5406@wisc.edu</email>
+		<ID>446216955</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Macaulay Bernard</name>
+		<email>macaulaybernard944@wisc.edu</email>
+		<ID>180239730</ID>
+		<grade>3.7</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Kiona Ingram</name>
+		<email>kionaingram@wisc.edu</email>
+		<ID>342470964</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Samuel Copeland</name>
+		<email>samuelcopeland@wisc.edu</email>
+		<ID>373636724</ID>
+		<grade>3.5</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Ronan Chandler</name>
+		<email>ronanchandler@wisc.edu</email>
+		<ID>568729924</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Kay Marquez</name>
+		<email>kaymarquez@wisc.edu</email>
+		<ID>106988205</ID>
+		<grade>3.2</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Dorian O'connor</name>
+		<email>dorianoconnor@wisc.edu</email>
+		<ID>112234471</ID>
+		<grade>3.6</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>David Buck</name>
+		<email>davidbuck5878@wisc.edu</email>
+		<ID>592751360</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Kirestin Park</name>
+		<email>kirestinpark3726@wisc.edu</email>
+		<ID>321820798</ID>
+		<grade>3.1</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Bertha Clemons</name>
+		<email>berthaclemons@wisc.edu</email>
+		<ID>995385346</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Rhonda Guthrie</name>
+		<email>rhondaguthrie@wisc.edu</email>
+		<ID>990326585</ID>
+		<grade>3.4</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Micah Finch</name>
+		<email>micahfinch@wisc.edu</email>
+		<ID>604224026</ID>
+		<grade>3.4</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Jamal Rowland</name>
+		<email>jamalrowland5661@wisc.edu</email>
+		<ID>298130305</ID>
+		<grade>3.6</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Hyatt Cervantes</name>
+		<email>hyattcervantes@wisc.edu</email>
+		<ID>325790175</ID>
+		<grade>3.6</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Juliet Sweeney</name>
+		<email>julietsweeney1203@wisc.edu</email>
+		<ID>672893008</ID>
+		<grade>3.7</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Nissim Freeman</name>
+		<email>nissimfreeman@wisc.edu</email>
+		<ID>991935040</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>McKenzie Coffey</name>
+		<email>mckenziecoffey@wisc.edu</email>
+		<ID>576608570</ID>
+		<grade>2.9</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Cassandra Carson</name>
+		<email>cassandracarson@wisc.edu</email>
+		<ID>886103390</ID>
+		<grade>3.4</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Freya Garrison</name>
+		<email>freyagarrison7423@wisc.edu</email>
+		<ID>865443069</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Anthony Middleton</name>
+		<email>anthonymiddleton@wisc.edu</email>
+		<ID>578530395</ID>
+		<grade>2.8</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Ferdinand Rowe</name>
+		<email>ferdinandrowe5056@wisc.edu</email>
+		<ID>378383375</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>McKenzie Newton</name>
+		<email>mckenzienewton@wisc.edu</email>
+		<ID>661119987</ID>
+		<grade>3.4</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Myles Lambert</name>
+		<email>myleslambert3487@wisc.edu</email>
+		<ID>865591721</ID>
+		<grade>3.8</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Alisa Ramos</name>
+		<email>alisaramos7283@wisc.edu</email>
+		<ID>718734112</ID>
+		<grade>3.6</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Brielle Bryant</name>
+		<email>briellebryant@wisc.edu</email>
+		<ID>873305608</ID>
+		<grade>2.7</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Brooke Peters</name>
+		<email>brookepeters8842@wisc.edu</email>
+		<ID>839027403</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Cullen Manning</name>
+		<email>cullenmanning@wisc.edu</email>
+		<ID>548292555</ID>
+		<grade>3.5</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Jada Rios</name>
+		<email>jadarios@wisc.edu</email>
+		<ID>904034776</ID>
+		<grade>3.4</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Scarlet Barrera</name>
+		<email>scarletbarrera2168@wisc.edu</email>
+		<ID>532736431</ID>
+		<grade>3.1</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Preston Trevino</name>
+		<email>prestontrevino@wisc.edu</email>
+		<ID>897401266</ID>
+		<grade>3.1</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Garrison Hood</name>
+		<email>garrisonhood9283@wisc.edu</email>
+		<ID>762010614</ID>
+		<grade>3.6</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Emmanuel Summers</name>
+		<email>emmanuelsummers2060@wisc.edu</email>
+		<ID>240335265</ID>
+		<grade>3.2</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Ian Fry</name>
+		<email>ianfry@wisc.edu</email>
+		<ID>359272711</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Emily Watson</name>
+		<email>emilywatson7525@wisc.edu</email>
+		<ID>903708775</ID>
+		<grade>3.2</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Lael Ewing</name>
+		<email>laelewing8955@wisc.edu</email>
+		<ID>245203487</ID>
+		<grade>3.4</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Ella Stanton</name>
+		<email>ellastanton@wisc.edu</email>
+		<ID>180830392</ID>
+		<grade>3.2</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Camille Ryan</name>
+		<email>camilleryan@wisc.edu</email>
+		<ID>568123550</ID>
+		<grade>3.2</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Jasper Payne</name>
+		<email>jasperpayne3410@wisc.edu</email>
+		<ID>195473716</ID>
+		<grade>3.4</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Ciara French</name>
+		<email>ciarafrench3965@wisc.edu</email>
+		<ID>520509854</ID>
+		<grade>3.0</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Doris Moon</name>
+		<email>dorismoon5701@wisc.edu</email>
+		<ID>702645564</ID>
+		<grade>3.2</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Joseph Wall</name>
+		<email>josephwall3891@wisc.edu</email>
+		<ID>380630150</ID>
+		<grade>3.5</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Stella Levy</name>
+		<email>stellalevy1770@wisc.edu</email>
+		<ID>588893794</ID>
+		<grade>3.4</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Mason Booth</name>
+		<email>masonbooth4287@wisc.edu</email>
+		<ID>379806279</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Haley Case</name>
+		<email>haleycase3166@wisc.edu</email>
+		<ID>637992374</ID>
+		<grade>3.4</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Branden Cortez</name>
+		<email>brandencortez7790@wisc.edu</email>
+		<ID>645106658</ID>
+		<grade>3.5</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Bianca Rice</name>
+		<email>biancarice@wisc.edu</email>
+		<ID>133754103</ID>
+		<grade>3.7</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Rebekah Powell</name>
+		<email>rebekahpowell6197@wisc.edu</email>
+		<ID>287166117</ID>
+		<grade>3.6</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Xavier Woodward</name>
+		<email>xavierwoodward6988@wisc.edu</email>
+		<ID>819072013</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Renee Strong</name>
+		<email>reneestrong@wisc.edu</email>
+		<ID>732203777</ID>
+		<grade>2.8</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Mallory Wolf</name>
+		<email>mallorywolf@wisc.edu</email>
+		<ID>496734018</ID>
+		<grade>3.4</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Logan Dunn</name>
+		<email>logandunn@wisc.edu</email>
+		<ID>663923436</ID>
+		<grade>3.5</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Dorian Carey</name>
+		<email>doriancarey@wisc.edu</email>
+		<ID>678283991</ID>
+		<grade>3.4</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Quinn Robles</name>
+		<email>quinnrobles7789@wisc.edu</email>
+		<ID>103885128</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Hadley Dalton</name>
+		<email>hadleydalton4542@wisc.edu</email>
+		<ID>243716681</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Delilah Sharpe</name>
+		<email>delilahsharpe7915@wisc.edu</email>
+		<ID>737270075</ID>
+		<grade>3.1</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Bevis Stevenson</name>
+		<email>bevisstevenson1640@wisc.edu</email>
+		<ID>948502813</ID>
+		<grade>3.1</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Summer Underwood</name>
+		<email>summerunderwood1123@wisc.edu</email>
+		<ID>877899902</ID>
+		<grade>3.2</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Halla Mullen</name>
+		<email>hallamullen4105@wisc.edu</email>
+		<ID>804345930</ID>
+		<grade>3.5</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Joy Roach</name>
+		<email>joyroach7906@wisc.edu</email>
+		<ID>957714106</ID>
+		<grade>3.6</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Rachel Stevenson</name>
+		<email>rachelstevenson@wisc.edu</email>
+		<ID>487248361</ID>
+		<grade>3.7</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Holmes Myers</name>
+		<email>holmesmyers9738@wisc.edu</email>
+		<ID>507792537</ID>
+		<grade>2.8</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Alan Fitzgerald</name>
+		<email>alanfitzgerald4798@wisc.edu</email>
+		<ID>165795774</ID>
+		<grade>3.5</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Garrison Howard</name>
+		<email>garrisonhoward@wisc.edu</email>
+		<ID>796740340</ID>
+		<grade>3.0</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Alea Gomez</name>
+		<email>aleagomez@wisc.edu</email>
+		<ID>526286234</ID>
+		<grade>3.6</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Zeph Garrison</name>
+		<email>zephgarrison4606@wisc.edu</email>
+		<ID>760687842</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Leigh Reyes</name>
+		<email>leighreyes2280@wisc.edu</email>
+		<ID>406498447</ID>
+		<grade>3.6</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Blaze Howe</name>
+		<email>blazehowe9551@wisc.edu</email>
+		<ID>341184842</ID>
+		<grade>3.7</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Iris Ball</name>
+		<email>irisball@wisc.edu</email>
+		<ID>942024694</ID>
+		<grade>2.7</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Shellie Lawrence</name>
+		<email>shellielawrence5938@wisc.edu</email>
+		<ID>282661395</ID>
+		<grade>3.0</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Imogene Grant</name>
+		<email>imogenegrant1388@wisc.edu</email>
+		<ID>686024848</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Demetria Porter</name>
+		<email>demetriaporter1777@wisc.edu</email>
+		<ID>702465691</ID>
+		<grade>3.5</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Zeus Farley</name>
+		<email>zeusfarley2676@wisc.edu</email>
+		<ID>333952711</ID>
+		<grade>3.0</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Jackson Figueroa</name>
+		<email>jacksonfigueroa@wisc.edu</email>
+		<ID>669112963</ID>
+		<grade>3.6</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Haviva Curtis</name>
+		<email>havivacurtis816@wisc.edu</email>
+		<ID>862014855</ID>
+		<grade>3.5</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Lane Hatfield</name>
+		<email>lanehatfield9957@wisc.edu</email>
+		<ID>499968544</ID>
+		<grade>2.9</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Hop Juarez</name>
+		<email>hopjuarez@wisc.edu</email>
+		<ID>297622432</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Matthew Vinson</name>
+		<email>matthewvinson@wisc.edu</email>
+		<ID>216536232</ID>
+		<grade>2.9</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Victor Hensley</name>
+		<email>victorhensley9644@wisc.edu</email>
+		<ID>107690978</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Daphne Fry</name>
+		<email>daphnefry@wisc.edu</email>
+		<ID>710250676</ID>
+		<grade>3.5</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Leroy Horton</name>
+		<email>leroyhorton4629@wisc.edu</email>
+		<ID>652890096</ID>
+		<grade>2.9</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Amery Reeves</name>
+		<email>ameryreeves2311@wisc.edu</email>
+		<ID>602983579</ID>
+		<grade>3.1</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Deirdre Heath</name>
+		<email>deirdreheath@wisc.edu</email>
+		<ID>445941817</ID>
+		<grade>3.1</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Benjamin Miller</name>
+		<email>benjaminmiller1645@wisc.edu</email>
+		<ID>892069738</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Troy Mcbride</name>
+		<email>troymcbride@wisc.edu</email>
+		<ID>356105020</ID>
+		<grade>3.0</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Jaime Martinez</name>
+		<email>jaimemartinez@wisc.edu</email>
+		<ID>979466652</ID>
+		<grade>3.0</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Hoyt Hurley</name>
+		<email>hoythurley3662@wisc.edu</email>
+		<ID>321117078</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Harper Allison</name>
+		<email>harperallison1342@wisc.edu</email>
+		<ID>728071155</ID>
+		<grade>3.5</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Cathleen Watson</name>
+		<email>cathleenwatson3930@wisc.edu</email>
+		<ID>568012969</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Jayme Robles</name>
+		<email>jaymerobles1704@wisc.edu</email>
+		<ID>136549844</ID>
+		<grade>3.1</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Dennis Hays</name>
+		<email>dennishays7561@wisc.edu</email>
+		<ID>382855664</ID>
+		<grade>3.1</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Slade Shaw</name>
+		<email>sladeshaw2255@wisc.edu</email>
+		<ID>246875132</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Wyatt Lopez</name>
+		<email>wyattlopez4531@wisc.edu</email>
+		<ID>315535801</ID>
+		<grade>2.9</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Octavia James</name>
+		<email>octaviajames1713@wisc.edu</email>
+		<ID>370118440</ID>
+		<grade>3.4</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Amena Gutierrez</name>
+		<email>amenagutierrez502@wisc.edu</email>
+		<ID>960942265</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Irene Craig</name>
+		<email>irenecraig@wisc.edu</email>
+		<ID>303206248</ID>
+		<grade>3.9</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Portia Chase</name>
+		<email>portiachase5958@wisc.edu</email>
+		<ID>362620828</ID>
+		<grade>3.1</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Daria Hancock</name>
+		<email>dariahancock6219@wisc.edu</email>
+		<ID>535373489</ID>
+		<grade>3.1</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Brock Anderson</name>
+		<email>brockanderson@wisc.edu</email>
+		<ID>439714572</ID>
+		<grade>2.9</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Channing Benjamin</name>
+		<email>channingbenjamin4328@wisc.edu</email>
+		<ID>482237412</ID>
+		<grade>3.1</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Holly Morgan</name>
+		<email>hollymorgan7258@wisc.edu</email>
+		<ID>676307227</ID>
+		<grade>3.5</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Xenos Ingram</name>
+		<email>xenosingram3770@wisc.edu</email>
+		<ID>410088746</ID>
+		<grade>3.7</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Nerea Dickerson</name>
+		<email>nereadickerson@wisc.edu</email>
+		<ID>742434689</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>April Pugh</name>
+		<email>aprilpugh@wisc.edu</email>
+		<ID>524897698</ID>
+		<grade>3.4</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Hector Hancock</name>
+		<email>hectorhancock6545@wisc.edu</email>
+		<ID>351031325</ID>
+		<grade>3.5</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Camille Carter</name>
+		<email>camillecarter1291@wisc.edu</email>
+		<ID>202988258</ID>
+		<grade>3.5</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Kenneth Battle</name>
+		<email>kennethbattle@wisc.edu</email>
+		<ID>748602437</ID>
+		<grade>3.6</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Tanner Webster</name>
+		<email>tannerwebster7909@wisc.edu</email>
+		<ID>317483763</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Armando Osborn</name>
+		<email>armandoosborn@wisc.edu</email>
+		<ID>951661923</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Hyatt Mills</name>
+		<email>hyattmills@wisc.edu</email>
+		<ID>244531573</ID>
+		<grade>3.0</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Celeste Vargas</name>
+		<email>celestevargas@wisc.edu</email>
+		<ID>682667583</ID>
+		<grade>2.9</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Pascale Juarez</name>
+		<email>pascalejuarez1379@wisc.edu</email>
+		<ID>285601538</ID>
+		<grade>3.2</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Hayley Banks</name>
+		<email>hayleybanks@wisc.edu</email>
+		<ID>223697546</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Chandler Tucker</name>
+		<email>chandlertucker2914@wisc.edu</email>
+		<ID>183172619</ID>
+		<grade>2.9</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Tyler Cook</name>
+		<email>tylercook9095@wisc.edu</email>
+		<ID>177016749</ID>
+		<grade>3.6</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Jeanette Salazar</name>
+		<email>jeanettesalazar@wisc.edu</email>
+		<ID>159991046</ID>
+		<grade>3.4</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Maxwell Kelley</name>
+		<email>maxwellkelley@wisc.edu</email>
+		<ID>306731930</ID>
+		<grade>3.5</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Felix Hester</name>
+		<email>felixhester@wisc.edu</email>
+		<ID>175384691</ID>
+		<grade>2.9</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Tamekah Crane</name>
+		<email>tamekahcrane912@wisc.edu</email>
+		<ID>844278239</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Tobias Wright</name>
+		<email>tobiaswright@wisc.edu</email>
+		<ID>830507676</ID>
+		<grade>3.7</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Gannon Lester</name>
+		<email>gannonlester2109@wisc.edu</email>
+		<ID>399522526</ID>
+		<grade>3.1</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Alea Bullock</name>
+		<email>aleabullock2016@wisc.edu</email>
+		<ID>740322811</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>James Pollard</name>
+		<email>jamespollard@wisc.edu</email>
+		<ID>801069048</ID>
+		<grade>3.2</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Avye Cox</name>
+		<email>avyecox@wisc.edu</email>
+		<ID>348857307</ID>
+		<grade>3.1</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Orson Fields</name>
+		<email>orsonfields1951@wisc.edu</email>
+		<ID>246352338</ID>
+		<grade>3.1</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Jacob Clay</name>
+		<email>jacobclay7895@wisc.edu</email>
+		<ID>526678953</ID>
+		<grade>3.0</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Adrienne Woodard</name>
+		<email>adriennewoodard@wisc.edu</email>
+		<ID>863575826</ID>
+		<grade>3.2</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Axel Guthrie</name>
+		<email>axelguthrie4065@wisc.edu</email>
+		<ID>824449681</ID>
+		<grade>3.8</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Kevin Mathis</name>
+		<email>kevinmathis3747@wisc.edu</email>
+		<ID>400759022</ID>
+		<grade>3.6</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Troy Stephens</name>
+		<email>troystephens6022@wisc.edu</email>
+		<ID>268240456</ID>
+		<grade>2.9</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Kuame Rasmussen</name>
+		<email>kuamerasmussen@wisc.edu</email>
+		<ID>928841807</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Carly Irwin</name>
+		<email>carlyirwin7526@wisc.edu</email>
+		<ID>489996910</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Cullen Alford</name>
+		<email>cullenalford8828@wisc.edu</email>
+		<ID>693255086</ID>
+		<grade>3.0</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Rogan Mcguire</name>
+		<email>roganmcguire3571@wisc.edu</email>
+		<ID>803645140</ID>
+		<grade>3.6</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Ezra Hayden</name>
+		<email>ezrahayden6943@wisc.edu</email>
+		<ID>300360407</ID>
+		<grade>3.6</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Charles Randolph</name>
+		<email>charlesrandolph6928@wisc.edu</email>
+		<ID>855505125</ID>
+		<grade>3.2</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Keely Hardy</name>
+		<email>keelyhardy7698@wisc.edu</email>
+		<ID>846177698</ID>
+		<grade>3.1</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Vaughan Cash</name>
+		<email>vaughancash7092@wisc.edu</email>
+		<ID>185221409</ID>
+		<grade>3.2</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Cathleen Day</name>
+		<email>cathleenday@wisc.edu</email>
+		<ID>451359584</ID>
+		<grade>2.9</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Philip Crawford</name>
+		<email>philipcrawford4799@wisc.edu</email>
+		<ID>166708406</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Emery Mathews</name>
+		<email>emerymathews8021@wisc.edu</email>
+		<ID>198182199</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Jordan Hays</name>
+		<email>jordanhays4951@wisc.edu</email>
+		<ID>478034550</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Lesley Witt</name>
+		<email>lesleywitt@wisc.edu</email>
+		<ID>460079381</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Shelby Riddle</name>
+		<email>shelbyriddle5637@wisc.edu</email>
+		<ID>485143905</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Serina Cunningham</name>
+		<email>serinacunningham@wisc.edu</email>
+		<ID>258118491</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Phelan Pearson</name>
+		<email>phelanpearson3562@wisc.edu</email>
+		<ID>149279187</ID>
+		<grade>3.1</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Justin Vance</name>
+		<email>justinvance@wisc.edu</email>
+		<ID>865945123</ID>
+		<grade>3.2</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Bert Conway</name>
+		<email>bertconway@wisc.edu</email>
+		<ID>269832315</ID>
+		<grade>3.5</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Darrel Arnold</name>
+		<email>darrelarnold@wisc.edu</email>
+		<ID>419250110</ID>
+		<grade>2.8</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Helen Mcleod</name>
+		<email>helenmcleod8561@wisc.edu</email>
+		<ID>363446905</ID>
+		<grade>3.2</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Kirby Gibson</name>
+		<email>kirbygibson1075@wisc.edu</email>
+		<ID>912329849</ID>
+		<grade>3.5</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Justine Noel</name>
+		<email>justinenoel@wisc.edu</email>
+		<ID>489443098</ID>
+		<grade>3.0</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Caleb Greene</name>
+		<email>calebgreene1035@wisc.edu</email>
+		<ID>863150297</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Rahim Lawson</name>
+		<email>rahimlawson1388@wisc.edu</email>
+		<ID>385384776</ID>
+		<grade>3.2</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>May Carney</name>
+		<email>maycarney@wisc.edu</email>
+		<ID>202447787</ID>
+		<grade>3.5</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Kelsey Berger</name>
+		<email>kelseyberger@wisc.edu</email>
+		<ID>393756617</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Dean Clements</name>
+		<email>deanclements422@wisc.edu</email>
+		<ID>994464531</ID>
+		<grade>3.3</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Nerea Allison</name>
+		<email>nereaallison@wisc.edu</email>
+		<ID>238751267</ID>
+		<grade>3.4</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Lacota Case</name>
+		<email>lacotacase@wisc.edu</email>
+		<ID>634138033</ID>
+		<grade>2.9</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Vivian Graham</name>
+		<email>viviangraham567@wisc.edu</email>
+		<ID>931317786</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Tatyana Hawkins</name>
+		<email>tatyanahawkins@wisc.edu</email>
+		<ID>118625205</ID>
+		<grade>3.8</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Aaron Morrow</name>
+		<email>aaronmorrow@wisc.edu</email>
+		<ID>419727544</ID>
+		<grade>3.7</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Dante Hurley</name>
+		<email>dantehurley@wisc.edu</email>
+		<ID>546673810</ID>
+		<grade>3.0</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Amery Schroeder</name>
+		<email>ameryschroeder2128@wisc.edu</email>
+		<ID>920929232</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Karina Valentine</name>
+		<email>karinavalentine387@wisc.edu</email>
+		<ID>886118800</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Barrett Mcfadden</name>
+		<email>barrettmcfadden@wisc.edu</email>
+		<ID>853057955</ID>
+		<grade>3.5</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>John Aguirre</name>
+		<email>johnaguirre@wisc.edu</email>
+		<ID>715448914</ID>
+		<grade>3.6</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Nathan Rodriquez</name>
+		<email>nathanrodriquez@wisc.edu</email>
+		<ID>766511427</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Maite Walsh</name>
+		<email>maitewalsh@wisc.edu</email>
+		<ID>743267927</ID>
+		<grade>3.2</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Yetta Marquez</name>
+		<email>yettamarquez1320@wisc.edu</email>
+		<ID>279543018</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Owen Carroll</name>
+		<email>owencarroll9723@wisc.edu</email>
+		<ID>381810242</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Perry Dorsey</name>
+		<email>perrydorsey@wisc.edu</email>
+		<ID>267942687</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Jada Evans</name>
+		<email>jadaevans5788@wisc.edu</email>
+		<ID>818125061</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Candace Good</name>
+		<email>candacegood2339@wisc.edu</email>
+		<ID>680502909</ID>
+		<grade>3.1</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Lyle Cantrell</name>
+		<email>lylecantrell@wisc.edu</email>
+		<ID>487593475</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Shelly Miller</name>
+		<email>shellymiller3064@wisc.edu</email>
+		<ID>561295993</ID>
+		<grade>3.6</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Diana Weber</name>
+		<email>dianaweber7111@wisc.edu</email>
+		<ID>173602388</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Dexter David</name>
+		<email>dexterdavid2285@wisc.edu</email>
+		<ID>362671611</ID>
+		<grade>3.2</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Jana Curry</name>
+		<email>janacurry@wisc.edu</email>
+		<ID>992949399</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Oprah Welch</name>
+		<email>oprahwelch800@wisc.edu</email>
+		<ID>281110533</ID>
+		<grade>3.2</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Chantale Montoya</name>
+		<email>chantalemontoya8182@wisc.edu</email>
+		<ID>683876499</ID>
+		<grade>3.2</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Emery Strong</name>
+		<email>emerystrong2835@wisc.edu</email>
+		<ID>607442298</ID>
+		<grade>3.7</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Alice Reynolds</name>
+		<email>alicereynolds@wisc.edu</email>
+		<ID>531647392</ID>
+		<grade>3.8</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Zephr Garrett</name>
+		<email>zephrgarrett4311@wisc.edu</email>
+		<ID>150635267</ID>
+		<grade>3.6</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Wing Burns</name>
+		<email>wingburns@wisc.edu</email>
+		<ID>476786221</ID>
+		<grade>3.4</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Thaddeus Wynn</name>
+		<email>thaddeuswynn9383@wisc.edu</email>
+		<ID>689393304</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Chantale Sharp</name>
+		<email>chantalesharp@wisc.edu</email>
+		<ID>929549544</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Dana Terry</name>
+		<email>danaterry@wisc.edu</email>
+		<ID>367899037</ID>
+		<grade>3.1</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Cameron Wagner</name>
+		<email>cameronwagner@wisc.edu</email>
+		<ID>640589919</ID>
+		<grade>3.6</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Bryar Vaughn</name>
+		<email>bryarvaughn@wisc.edu</email>
+		<ID>360355015</ID>
+		<grade>3.1</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Abra Hughes</name>
+		<email>abrahughes7055@wisc.edu</email>
+		<ID>730035489</ID>
+		<grade>3.5</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Ryan Turner</name>
+		<email>ryanturner9568@wisc.edu</email>
+		<ID>788286401</ID>
+		<grade>3.1</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Mechelle Mercer</name>
+		<email>mechellemercer7385@wisc.edu</email>
+		<ID>862742745</ID>
+		<grade>3.7</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Idola Acevedo</name>
+		<email>idolaacevedo@wisc.edu</email>
+		<ID>990188361</ID>
+		<grade>3.3</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Erin Nieves</name>
+		<email>erinnieves@wisc.edu</email>
+		<ID>601260948</ID>
+		<grade>3.1</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Desirae Klein</name>
+		<email>desiraeklein@wisc.edu</email>
+		<ID>590966984</ID>
+		<grade>3.7</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Karina Vance</name>
+		<email>karinavance1177@wisc.edu</email>
+		<ID>556502696</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Geraldine Burch</name>
+		<email>geraldineburch5921@wisc.edu</email>
+		<ID>842406364</ID>
+		<grade>3.4</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Sybil Woodward</name>
+		<email>sybilwoodward@wisc.edu</email>
+		<ID>749043611</ID>
+		<grade>2.9</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Darrel Murphy</name>
+		<email>darrelmurphy@wisc.edu</email>
+		<ID>176883643</ID>
+		<grade>3.1</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Dennis Hull</name>
+		<email>dennishull5203@wisc.edu</email>
+		<ID>723134887</ID>
+		<grade>2.9</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Josiah Black</name>
+		<email>josiahblack@wisc.edu</email>
+		<ID>424249563</ID>
+		<grade>3.4</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Catherine Bowman</name>
+		<email>catherinebowman551@wisc.edu</email>
+		<ID>758766234</ID>
+		<grade>3.5</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Cheryl Shepherd</name>
+		<email>cherylshepherd2075@wisc.edu</email>
+		<ID>386757081</ID>
+		<grade>3.1</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Mufutau Hubbard</name>
+		<email>mufutauhubbard@wisc.edu</email>
+		<ID>118763655</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Skyler Carney</name>
+		<email>skylercarney@wisc.edu</email>
+		<ID>464796755</ID>
+		<grade>3.2</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Madeline Schwartz</name>
+		<email>madelineschwartz297@wisc.edu</email>
+		<ID>748324987</ID>
+		<grade>3.3</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Bert Oneal</name>
+		<email>bertoneal17@wisc.edu</email>
+		<ID>541444358</ID>
+		<grade>3.4</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Calvin Santana</name>
+		<email>calvinsantana1967@wisc.edu</email>
+		<ID>482295107</ID>
+		<grade>3.2</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Lester Hewitt</name>
+		<email>lesterhewitt9015@wisc.edu</email>
+		<ID>284897343</ID>
+		<grade>3.8</grade>
+		<major>Data Science</major>
+	</student>
+	<student>
+		<name>Morgan Bradley</name>
+		<email>morganbradley@wisc.edu</email>
+		<ID>265111258</ID>
+		<grade>3.3</grade>
+		<major>Business</major>
+	</student>
+	<student>
+		<name>Allistair Velasquez</name>
+		<email>allistairvelasquez582@wisc.edu</email>
+		<ID>462140327</ID>
+		<grade>3.4</grade>
+		<major>Math</major>
+	</student>
+	<student>
+		<name>Stella Luna</name>
+		<email>stellaluna7090@wisc.edu</email>
+		<ID>974413517</ID>
+		<grade>3.5</grade>
+		<major>Computer Science</major>
+	</student>
+	<student>
+		<name>Hiram Glass</name>
+		<email>hiramglass@wisc.edu</email>
+		<ID>268093576</ID>
+		<grade>3.6</grade>
+		<major>Math</major>
+	</student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student><student><name>Navya</name><email>mongia@wisc.edu</email><ID>2234567</ID><grade>4.0</grade><major>comp sci</major></student><student><name>Jatin Mamtani</name><email>jm@wisc.edu</email><ID>229987</ID><grade>3.0</grade><major>computer science</major></student></students>
